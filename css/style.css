@@ -490,7 +490,7 @@ ol {
 }
 
 .hero__item {
-  height: 100vh;
+  height: 98vh;
   padding-top: 255px;
 }
 
@@ -1943,7 +1943,7 @@ ol {
   }
 
   .slicknav_nav {
-    background: #222222;
+    background: red;
   }
 
   .slicknav_btn {
@@ -2066,7 +2066,7 @@ ol {
   }
 
   .slicknav_nav {
-    background: #222222;
+    background: transparent;
   }
 
   .slicknav_btn {
